@@ -1,0 +1,70 @@
+[
+  {
+    "GlobalBrandId": 9999001,
+    "GenericName": "test",
+    "CountryBrandId": 9999001,
+    "CountryBrandName": "test brand",
+    "CountryDisplayName": "test brand",
+    "CountryGenericName": "test",
+    "Country": "South Africa",
+    "CountryCode": "ZA",
+    "Language": "English",
+    "LanguageCode": "en",
+    "Indications": [
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      }
+    ]
+  },
+  {
+    "GlobalBrandId": 9999002,
+    "GenericName": "test 2",
+    "CountryBrandId": 9999002,
+    "CountryBrandName": "test 2 brand",
+    "CountryDisplayName": "test 2 brand",
+    "CountryGenericName": "test 2",
+    "Country": "South Africa",
+    "CountryCode": "ZA",
+    "Language": "English",
+    "LanguageCode": "en",
+    "Indications": [
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      },
+      {
+        "IndicationName": "",
+        "Description": ""
+      }
+    ]
+  }
+]
